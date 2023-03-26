@@ -97,7 +97,7 @@ ul {
   margin: 0 0 30px;
 }
 .new-text b {
-  min-width: 560px;
+  max-width: 560px;
   font-size: 20px;
   line-height: 26px;
   display: block;
